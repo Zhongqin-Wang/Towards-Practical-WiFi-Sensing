@@ -20,7 +20,7 @@ Zhongqin Wang, J. Andrew Zhang, Kai Wu, Min Xu, and Y. Jay Guo, *“Towards SISO
 🔗 **Video:** https://www.youtube.com/watch?v=ldF2vq5x0P4  
 
 This demo presents **WiDFS 3.0**, a real-time **bistatic passive WiFi sensing framework** built on the Intel 5300 NIC.  
-The system performs **moving target tracking**, **static object localization**, and **vital sign monitoring** using Channel State Information (CSI) without active transmission.
+The system performs **moving target tracking**, **static object localization**, and **vital sign monitoring** using Channel State Information (CSI).
 
 ### **Sensing Functions**
 - Motion Detection: Detects human presence or movement  
